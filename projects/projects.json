@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Stockify",
+    "desc": "Through the use of sophisticated algorithms, players can experience the ups and downs of stock trading in a safe and educational environment.",
+    "image": "stockify",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/file/d/10GITcb21ocsYPPB2Y8xurzsWG5ft8mpK/view?usp=share_link",
+      "code": "https://github.com/Stockify-Developers/Stockify"
+    }
+  },
+  {
+    "name": "Kare4Kids",
+    "desc": "Created an internal website portal for Bal Asha Trust’s Management and Social Workers, to digitize data and document collection throughout the adoption process.",
+    "image": "ngo",
+    "category": "mern",
+    "links": {
+      "view": " https://www.youtube.com/watch?v=k_UCqAfqIA4&t=2s",
+      "code": "https://github.com/tanyaarora2/Team4-CodeToGive"
+    }
+  },
+  {
+    "name": "Employee Attrition Prediction",
+    "desc": "Performed neccessary analysis on the dataset and used three models and compared the accuracy score for the above models",
+    "image": "employee",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://colab.research.google.com/drive/1H1oLb7ddBQYk_MM-41a6IK6ijICWXuiR?usp=sharing",
+      "code": "https://colab.research.google.com/drive/1H1oLb7ddBQYk_MM-41a6IK6ijICWXuiR?usp=sharing"
+    }
+  },
+  {
+    "name": "ChatBot",
+    "desc": "Created a chatbot for SciAstra website to answer user queries",
+    "image": "Chatbot",
+    "category": "web and python",
+    "links": {
+      "view": "https://github.com/tanyaarora2/chatbot-sci",
+      "code": "https://github.com/tanyaarora2/chatbot-sci"
+    }
+  },
+  {
+    "name": "PG Life",
+    "desc": "Full-Stack website for finding a PG in a given state",
+    "image": "pg",
+    "category": "fullstack",
+    "links": {
+      "view": "https://tanyaarora2.github.io/PgLIFE/",
+      "code": "https://github.com/tanyaarora2/PgLIFE"
+    }
+  }
+]
